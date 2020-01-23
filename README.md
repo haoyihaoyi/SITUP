@@ -17,8 +17,7 @@ hm5au@virginia.edu
 
 ## Reference
 [1] Haoyi Ma, Scott T. Acton, Zongli Lin.
-    "SITUP: Scale Invariant Tracking using Average Peak-to-Correlation Energy"
-    arXiv:1812.03111v1 [eess.IV], 2018
+    "SITUP: Scale Invariant Tracking using Average Peak-to-Correlation Energy", IEEE Transactions on Image Processing, 2020.
 
 [2] Yang Li, Jianke Zhu. 
 	"A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration" 
