@@ -12,8 +12,7 @@ run_SITUP.m is the evaluation code compatiable with OTB toolkit to evaluate our 
 
 
 ## Contact:
-Haoyi Ma
-hm5au@virginia.edu
+Haoyi Ma: hm5au@virginia.edu
 
 ## Reference
 [1] Haoyi Ma, Scott T. Acton and Zongli Lin. "SITUP: Scale Invariant Tracking using Average Peak-to-Correlation Energy," IEEE Transactions on Image Processing, 2020.
