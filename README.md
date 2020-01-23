@@ -8,7 +8,7 @@ This is the matlab code of SITUP [1]. The implementation is built upon the code 
 
 
 ## Benchmark evaluation:
-run_SITUP is the evaluation code compatiable with OTB toolkit to evaluate our tracker on the whole benchmark dataset.
+run_SITUP.m is the evaluation code compatiable with OTB toolkit to evaluate our tracker on the whole benchmark dataset.
 
 
 ## Contact:
