@@ -21,11 +21,10 @@ hm5au@virginia.edu
 
 [2] Yang Li, Jianke Zhu. 
 	"A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration" 
-	European Conference on Computer Vision, Workshop VOT2014 (ECCVW), 2014
+	European Conference on Computer Vision, Workshop VOT2014, 2014
 
 [3] J. F. Henriques, R. Caseiro, P. Martins, J. Batista.
-    "High-Speed Tracking with Kernelized Correlation Filters."
-    TPAMI - IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015
+    "High-Speed Tracking with Kernelized Correlation Filters." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015
 
 [4] Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg and Joost van de Weijer.
     "Adaptive Color Attributes for Real-Time Visual Tracking".
@@ -33,7 +32,7 @@ hm5au@virginia.edu
 
 [5] J. van de Weijer, C. Schmid, J. J. Verbeek, and D. Larlus.
     "Learning color names for real-world applications."
-    TIP, 18(7):1512–1524, 2009.
+    IEEE Transactions on Image Processing, 18(7):1512–1524, 2009.
 
 [6] David Ross, Jongwoo Lim, Ruei-Sung Lin, Ming-Hsuan Yang. 
 	"Incremental Learning for Robust Visual Tracking"
